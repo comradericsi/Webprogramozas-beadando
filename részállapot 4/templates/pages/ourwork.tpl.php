@@ -1,0 +1,11 @@
+<div class="container text-center">
+    <div class="fs-2 fw-bold m-4">
+        <p>For more than 80 years, the National Wildlife Federation has been uniting Americans to ensure wildlife thrive.</p>
+    </div>
+    <div class="fs-4 fw-normal">
+        <p>Our founder J. N. “Ding” Darling understood there is power in unity. In 1936 his bold vision for a nationwide constituency of conservation supporters brought together Americans from all corners of the country. Today the National Wildlife Federation is a nationwide federation with 52 state and territory affiliates and six million members and supporters.</p><br>
+        <p>Through habitat protection, restoration, and management, our far-reaching impact has brought numerous species back from the brink of extinction, including eagles, deer, elk, bighorn sheep, and whales. Yet in our rapidly changing world, our nation’s wildlife continue to be faced with critical challenges.</p><br>
+        <p>At this moment, more than a third of our country’s species are at risk of extinction in the coming decades. In the last 20 years, the monarch butterfly’s population has declined by 90 percent. America’s free-ranging bison, which once numbered 20 to 30 million, are down to fewer than 5,000 individuals. In the face of these challenges, the National Wildlife Federation remains at the forefront of the fight to tackle wildlife’s greatest threats, working collaboratively to increase wildlife populations and enhance their capacity to thrive.</p><br>
+        <p>As in nature, we have strength in numbers. Our ability to help wildlife is inextricably linked to the diverse efforts of the individuals and groups that support our mission. Across the country we engage with communities, schools, governments, and other organizations to build and nurture a common commitment to conservation. As we continue to grow, we’re fostering relationships with valuable partners that share our mission, working collaboratively with 2,500 organizations by 2021. We’ll engage millions more Americans in supporting our mission, including 25 million future generation conservationists in 20,000 schools across the country.</p><br>
+    </div>
+</div>
