@@ -1,5 +1,5 @@
 
-<form action = "?oldal=singin" method = "post" class=" border bg-light">
+<form action = "?oldal=signin" method = "post" class=" border bg-light">
   <div class="ms-4">
       <fieldset>
         <legend>Bejlentkezés</legend>
